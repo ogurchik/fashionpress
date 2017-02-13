@@ -1,0 +1,19 @@
+$main-menu : 950/1600*100%;
+body {
+	width: 100%;
+	font-size: 18px;
+	font-family:'Times New Roman';
+}
+header {
+	display: flex;
+	width: $main-menu;
+	margin: auto;
+	border: 2px solid red;
+	align-items: center;
+}
+.menu-authorization {
+	display: flex;
+}
+.header_caption {
+	font-size: (30/18)*1em;
+}

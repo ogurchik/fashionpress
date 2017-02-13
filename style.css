@@ -1,0 +1,19 @@
+body {
+  width: 100%;
+  font-size: 18px;
+  font-family: 'Times New Roman'; }
+
+header {
+  display: flex;
+  width: 59.375%;
+  margin: auto;
+  border: 2px solid red;
+  align-items: center; }
+
+.menu-authorization {
+  display: flex; }
+
+.header_caption {
+  font-size: 1.66667em; }
+
+/*# sourceMappingURL=style.css.map */
